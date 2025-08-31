@@ -1,5 +1,5 @@
 local TextChatService = game:GetService("TextChatService")
-local avisoFile = "aviso2.txt"
+local avisoFile = "aviso3.txt"
 
 local mensagem1 = "Estou modificando o Nexor Hub"
 local mensagem2 = "Em breve vai ticar muito mais bonito e organizado."
