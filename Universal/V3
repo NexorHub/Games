@@ -1,1 +1,4 @@
 print("Versão 3.0")
+
+-- Carregar e executar o Intro.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NexorHub/Games/refs/heads/main/Universal/Intro.lua"))()
