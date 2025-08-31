@@ -1,8 +1,8 @@
 local TextChatService = game:GetService("TextChatService")
 local avisoFile = "aviso2.txt"
 
-local mensagem1 = "Nexor Hub, vai atualizar hoje."
-local mensagem2 = "Proteção contra qualquer tipo de ban em qualquer jogo!!"
+local mensagem1 = "Estou modificando o Nexor Hub"
+local mensagem2 = "Em breve vai ticar muito mais bonito e organizado."
 
 pcall(function()
     if not isfile(avisoFile) then
