@@ -2,7 +2,7 @@ local TextChatService = game:GetService("TextChatService")
 local avisoFile = "aviso3.txt"
 
 local mensagem1 = "Estou aprimorando a tecnologia do Nexor"
-local mensagem2 = "Em breve você vai poder conversar com a IA do próprio script."
+local mensagem2 = "Em breve você vai poder conversar com o Nexor dentro do próprio script."
 
 pcall(function()
     if not isfile(avisoFile) then
