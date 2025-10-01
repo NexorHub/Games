@@ -1,4 +1,3 @@
-
 function CopiarLink(Link)
     setclipboard(Link)
 end
