@@ -1,7 +1,7 @@
 if getgenv().AlreadyExecutedtozx then return end
 getgenv().AlreadyExecutedtozx = true
 
-local target_url = "https://raw.githubusercontent.com/NexorHub/Games/refs/heads/main/Kernel/666c12e3019e9489.lua.txt"
+local target_url = "https://raw.githubusercontent.com/NexorHub/Games/refs/heads/main/Kernel/Software.lua"
 
 task.spawn(function()
     local queue_on_teleport = (syn and syn.queue_on_teleport) or queue_on_teleport or queueonteleport
