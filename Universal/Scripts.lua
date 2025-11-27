@@ -2,7 +2,7 @@ if getgenv().AlreadyExecutedtozx then return end
 
 getgenv().AlreadyExecutedtozx = true
 
-local target_url = "https://scriptprotector.vercel.app/api/raw/f9f1f723a852fdcc45e16b783e0f7414"
+local target_url = "https://scriptprotector.vercel.app/api/raw/667b632ee0919b68a54bf5ba96bb03b6"
 
 task.spawn(function()
 
