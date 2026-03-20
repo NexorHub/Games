@@ -1,1 +1,2 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/hid1ey/EthuX-xyz/refs/heads/main/Universal/loader.lua'))()
+local AsusHub = "https://asus-hub.vercel.app/loader.lua"
+loadstring(game:HttpGet(AsusHub))(...)
